@@ -6,3 +6,67 @@ Green: #00B172
 White: #FFF
 
 */
+body {
+  font-family: Roboto;
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 3.5em;
+}
+
+header {
+  background-color: white;
+  width: 100%;
+  margin: 0;
+  height: 50px;
+}
+
+.navigation-button {
+  list-style: none;
+  text-decoration: none;
+  margin: 1rem;
+  padding: 1rem;
+  float: right;
+}
+
+#first-sec img {
+  width: 100%;
+  position: center;
+}
+
+#first-sec h1 {
+  position: absolute;
+}
+
+#first-sec p {
+  position: absolute;
+}
+
+#second-sec h2 {
+  position: center;
+}
+
+#third {
+  float: right;
+  width: 30%;
+  padding: 5px 10px;
+}
+
+#second {
+  position: absolute;
+  width: 30%;
+  padding: 5px 10px;
+}
+
+#first {
+  position: absolute;
+  width: 30%;
+  padding: 5px 10px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+
